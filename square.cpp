@@ -18,7 +18,7 @@ using namespace std;
 
 #define ERREUR 10
 
-bool affichage = false;
+bool affichage = true;
 
 int thresh = 1, N = 11;
 

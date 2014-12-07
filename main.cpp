@@ -44,8 +44,6 @@ int h = 0, s = 0, v = 0, tolerance = 40;
 
 void tess(Mat image,char* rep){
 
-
-
     if(image.data){
     tesseract::TessBaseAPI api;
 
